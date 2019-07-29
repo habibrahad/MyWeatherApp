@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="my_weather_app">My Weather App</string>
+    <string name="shakawath_and_habib">Shakawath and Habib</string>
+    <string name="team_darkwhite">Team DarkWhite</string>
+    <string name="change_city">Change City</string>
+</resources>

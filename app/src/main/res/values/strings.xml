@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="my_weather_app">My Weather App</string>
+
+    <string name="team_darkwhite">Team DarkWhite</string>
+    <string name="change_city">Change City</string>
+    <string name="contact">         <a href="mailto:shakawath.hossen@gmail.com">Shakawath</a> <a href="mailto:habib.reza.karim@gmail.com">| Habib  </a> </string>
+    <string name= "sourcecode">     <a href="https://github.com/habibrahad/MyWeatherApp">Source Code</a>   </string>
+    <string name="facebook">        <a href="https://www.facebook.com/habib.reza.karim">Habib |</a>         <a href="https://www.facebook.com/skwth.h">Shakawath</a>    </string>
+    <string name= "faq">            <a href="mailto:habib.reza.karim@gmail.com">FAQ</a>    </string>
+    <string name= "rate">           <a href="https://play.google.com/store/apps/details?id=com.darkwhite.myweatherapp">Rate This App</a>    </string>
+
+
+</resources>

@@ -10,6 +10,7 @@ Features:
 Additional:
 
 - You can change the location if you want to.
+- Added More button to give the proper Information about the Application and Developer(s).
 
 Note:
 
